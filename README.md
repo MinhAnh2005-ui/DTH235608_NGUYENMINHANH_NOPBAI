@@ -1,4 +1,4 @@
-Dự án Python : họ và tên ,chào 
+
 
 
 Kỹ năng giúp ta hiểu rõ về Python ,visual,git 
